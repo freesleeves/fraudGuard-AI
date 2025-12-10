@@ -1,0 +1,5 @@
+{
+  "name": "FraudGuard AI Dashboard",
+  "description": "Real-time fraud detection and AML risk analysis dashboard for SME financial activity.",
+  "requestFramePermissions": []
+}
